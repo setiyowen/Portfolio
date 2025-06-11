@@ -36,8 +36,7 @@ Hi, my name is Owen. Since the beginning of 2023, I have been studying and train
 |                               |         !>           |                   |                                  |                       |         |
 
 
-* * Rest API testing
-* [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
+* Rest API testing
 * Basic knowledge about software development models (waterfall, v model, agile)
 * Software testing
 * Creating test cases
