@@ -6,11 +6,11 @@ Hi, my name is Owen. Since the beginning of 2023, I have been studying and train
 [My Linkedin profile](https://www.linkedin.com/in/wenwork/)
 
 ### Tools :wrench:
-* [Notion](https://www.notion.com/)](https://trello.com/pl/tour) - project management
-* [Jam.Dev](https://jam.dev/login)](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
-* [Discord](https://discord.com/)](https://slack.com/) - communication within the team
+* [Notion](https://www.notion.com/)- project management
+* [Jam.Dev](https://jam.dev/login)]- bug tracking
+* [Discord](https://discord.com/)]- communication within the team
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
-* [Hasura.io](https://hasura.io/)](https://www.google.com/intl/pl_pl/drive/) - storing data
+* [Hasura.io](https://hasura.io/)- storing data
 * [Git](https://git-scm.com/) - for better work in development team and controlling software versions
 * [GitHub](https://github.com/) - supporting Git and preparing my repositories
 * [Xampp](https://www.apachefriends.org/pl/index.html) - practicing SQL
