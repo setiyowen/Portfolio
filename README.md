@@ -6,25 +6,19 @@ Hi, my name is Owen. Since the beginning of 2023, I have been studying and train
 [My Linkedin profile](https://www.linkedin.com/in/wenwork/)
 
 ### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
-* [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
-* [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
-* [Slack](https://slack.com/) - communication within the team
+* [Notion](https://www.notion.com/)](https://trello.com/pl/tour) - project management
+* [Jam.Dev](https://jam.dev/login)](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
+* [Discord](https://discord.com/)](https://slack.com/) - communication within the team
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
-* [Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data
+* [Hasura.io](https://hasura.io/)](https://www.google.com/intl/pl_pl/drive/) - storing data
 * [Git](https://git-scm.com/) - for better work in development team and controlling software versions
 * [GitHub](https://github.com/) - supporting Git and preparing my repositories
-* [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
 * [Xampp](https://www.apachefriends.org/pl/index.html) - practicing SQL
 * [Postman](https://www.postman.com/) - API testing
-* [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
 * [Selenium](https://www.selenium.dev/)
-* [Robot framework](https://robotframework.org/)
 * [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
-* [Zephyr](https://www.atlassian.com/pl/devops/testing-tutorials/jira-zephyr-scale-testing)
-* [Kibana](https://www.elastic.co/kibana)
-* [TeamCity](https://www.jetbrains.com/teamcity/)
-* [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+* [Uilicious](https://uilicious.com/)
+* [Testmo](https://www.testmo.com/)
 
 ### Tech skills :computer:
 * [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
@@ -44,7 +38,7 @@ Hi, my name is Owen. Since the beginning of 2023, I have been studying and train
 
 * * Rest API testing
 * [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
-* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+* Basic knowledge about software development models (waterfall, v model, agile)
 * Software testing
 * Creating test cases
 * Reporting bugs
@@ -52,7 +46,3 @@ Hi, my name is Owen. Since the beginning of 2023, I have been studying and train
 * Basic [Python](https://www.python.org/) - for test automation
 * Basic HTML and CSS
 * Creating documentation
-* experience with testing SaaS web applications
-* performing smoke tests
-* testing UAT
-* scrum workflow
