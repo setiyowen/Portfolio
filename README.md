@@ -7,8 +7,8 @@ Hi, my name is Owen. Since the beginning of 2023, I have been studying and train
 
 ### Tools :wrench:
 * [Notion](https://www.notion.com/)- project management
-* [Jam.Dev](https://jam.dev/login)]- bug tracking
-* [Discord](https://discord.com/)]- communication within the team
+* [Jam.Dev](https://jam.dev/login)- bug tracking
+* [Discord](https://discord.com/)- communication within the team
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
 * [Hasura.io](https://hasura.io/)- storing data
 * [Git](https://git-scm.com/) - for better work in development team and controlling software versions
